@@ -10,7 +10,7 @@ h1 {
     li {display:inline-block;}
 img {
     max-width: 150px;
-    width: 100%;
+    width: 80%;
     align: right;
 }
 h2{
@@ -20,4 +20,7 @@ h2{
 body {
     margin: auto;
     width: 550px;
+}
+p1 {color: white;
+    background-color: navy;
 }
