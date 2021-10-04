@@ -21,6 +21,9 @@ body {
     margin: auto;
     width: 550px;
 }
+p1 {
+    color: grey;
+}
 p2 {color: white;
     background-color: navy;
 }
