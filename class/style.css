@@ -24,6 +24,7 @@ body{
 .topper .event-house-desc{
     color: #93b5af;
     text-align: center;
+    font-size: 20px;
 }
 .topper h2{
     border-top: 2px dotted #807a79;
@@ -71,5 +72,8 @@ h6{
     letter-spacing: 2px;
     text-transfrom: uppercase
     font-size: 1.1em;
+    border-bottom: 2px dotted #807a79;
 }
-ul{}
+.add-toppings{
+    font-size: 7px;
+}
