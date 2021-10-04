@@ -3,15 +3,15 @@
     width: 400px;
     text-align: center;}
     li {display:inline-block}
+    font-family: Montserrat;
 h1 {
     color: #33485e;
 }
-#topper
-    li {display:inline-block;}
-    font-family: Montserrat;
+
+
 img {
     max-width: 150px;
-    width: 80%;
+    width: 100%;
     align: right;
 }
 h2{
@@ -22,9 +22,7 @@ body {
     margin: auto;
     width: 550px;
 }
-p1 {
-    color: grey;
-}
-p2 {color: white;
+
+h6 {color: white;
     background-color: navy;
 }
