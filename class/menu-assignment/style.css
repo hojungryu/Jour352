@@ -74,6 +74,18 @@ h6{
     font-size: 1.1em;
     border-bottom: 2px dotted #807a79;
 }
+.additional-toppings{
+    color:#b7bdc7
+    font-style:italic;
+}
 .add-toppings{
     font-size: 7px;
+}
+h7{
+    font-size:8px;
+    color:#10a399;
+}
+h8{
+    font-size:8px;
+    color:#050505;
 }
