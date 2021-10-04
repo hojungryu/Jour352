@@ -23,6 +23,7 @@ body {
     width: 550px;
 }
 
-mark {color: white;
+mark {
     background-color: navy;
+    color: black;
 }
