@@ -2,7 +2,8 @@
     margin: auto;
     width: 400px;
     text-align: center;}
-    li {display:inline-block}
+.social-links li {display:inline-block}
+
 
 h1 {
     color: #33485e;
