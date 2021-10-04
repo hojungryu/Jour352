@@ -13,7 +13,7 @@ h1 {
 
 
 img {
-    max-width: 150px;
+    max-width: 180px;
     width: 100%;
     align: right;
 }
@@ -21,6 +21,7 @@ h2{
     color: white;
     background-color: navy;
 }
+
 body {
     margin: auto;
     width: 550px;
