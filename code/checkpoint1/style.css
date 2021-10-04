@@ -18,6 +18,7 @@ body{
     text-transform: uppercase;
     color:#807a79;
     font-weight: bold;
+    font-size: 8px;
 }
 .topper h2,
 .topper .event-house-desc{
