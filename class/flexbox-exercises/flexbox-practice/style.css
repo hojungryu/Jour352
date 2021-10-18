@@ -1,0 +1,29 @@
+.flex-container {
+    display: flex;
+    min-height: 110px;
+    width: 80%;
+    margin: 15px auto;
+    justify-content: space-evenly;
+    gap: 15px 15px;
+}
+.light-pink div{
+    background-color: #F5C6D6;
+    flex-grow: 1;
+    align-items: center;
+}
+.dark-pink div{
+    background-color: #EE2E84;
+    flex-grow:1;
+}
+.blue div{
+    background-color:#85CFD8;
+    flex-grow:1;
+}
+.green {
+    background-color: #8DC63F;
+    flex-grow:3;
+}
+.orange {
+    background-color: #E76E34;
+    flex-grow:1;
+}
